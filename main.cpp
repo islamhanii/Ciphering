@@ -1,7 +1,5 @@
 ///Author: Islam Hani Awad
 ///Job: Student at FCAI faculty, Cairo University
-///About: Ciphering
-///Description: You can use some type of ciphering to cipher a message
 
 
 #include <iostream>
